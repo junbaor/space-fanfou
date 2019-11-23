@@ -114,6 +114,7 @@ async function migrateSettings() {
     // - 'remove_app_recom.completely_remove': true,
     // - 'replace_self_name': false,
     // - 'rescale_background': true,
+    'remove_invitation': 'remove-invitation',
     'share_to_fanfou': 'share-to-fanfou',
     'status_manage': 'batch-remove-statuses',
     'translucent_sidebar': 'translucent-sidebar',

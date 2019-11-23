@@ -46,6 +46,7 @@ const tabDefs = [ {
     options: [
       'remove-personalized-theme',
       'remove-app-recommendations',
+      'remove-invitation',
     ],
   }, {
     title: '细节',
